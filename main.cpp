@@ -14,8 +14,8 @@ using namespace std;
 
 
 // latitude and longitude of the customer who needs a cab.
-#define lat1d 12.9611159
-#define lon1d 77.6362214
+#define lat1d 12.8631251
+#define lon1d 78.1323514
 
 // values of pi and earth radius.
 #define pi 3.14159265358979323846
@@ -144,6 +144,6 @@ int main() {
 
   // to read customers.json file.
   obj.json_parser();
-  
   return 0;
+
 }
