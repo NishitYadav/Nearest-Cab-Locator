@@ -1,4 +1,4 @@
-# Nearest Cab Finder
+# Nearest Cab Locator
 
 This project is a solution to find cab drivers within a 50 km proximity using GPS coordinates. It extracts and converts latitude and longitude data from a JSON file, converts these coordinates from degrees to radians, and applies the Great Circle Distance formula to calculate the distance between the user's location and each cab.
 
